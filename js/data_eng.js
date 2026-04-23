@@ -9,7 +9,8 @@ export const skillData = {
             "Deep Google Tag Manager audit for Wellness Center (USA), eliminating duplicate triggers.",
             "Complete reconstruction of conversion funnels in GA4 for real ROAS visibility.",
             "Identification of data pipeline anomalies causing revenue under-reporting.",
-            "Technical documentation of tracking architecture for multi-city scalability."
+            "Technical documentation of tracking architecture for multi-city scalability.",
+            "Full-Stack SEO Strategy (2024-2025): Audit, technical optimization, and organic positioning for various brands in the Spanish market."
         ],
         images: [
             { url: "assets/portfolio/ga4-dashboard-metrics.png", caption: "GA4: Monitoring sanitized conversion events (Forms and CTM)." }
@@ -38,19 +39,15 @@ export const skillData = {
             "CallTrackingMetrics (CTM) integration with Slack and GA4 via n8n webhooks.",
             "Google Ads alert automation (via OAuth2) for budget anomaly detection.",
             "Development of technical SOPs for mass deployment of GTM containers.",
-            "CRM -> Spreadsheets -> Dashboards synchronization without manual intervention."
+            "CRM -> Spreadsheets -> Dashboards synchronization without manual intervention.",
+            "Meta Ads Management (Feb-Apr 2026): Account restructuring, campaign creation, and ad spend optimization with a focus on ROI.",
+            "AI Innovation: Generation of AI models (personas) to reduce photography production costs and optimize engagement.",
+            "Zero-Cost Virtual Catalog: Implementation of an interactive catalog directly in ads to facilitate conversion without extra platform fees.",
+            "Meta Tracking: Robust integration of Meta Pixel and event measurement for precise attribution."
         ],
         images: [
             { url: "assets/portfolio/n8n-alert-flow.png", caption: "n8n Workflow: Smart KPI alert automation for Google Ads." },
             { url: "assets/portfolio/n8n-ctm-integration.png", caption: "n8n Workflow: LIVE integration of Call Tracking with the Slack ecosystem." }
-        ]
-    },
-    "Data Pipeline Engineering": {
-        description: "Building robust infrastructures for the flow and processing of large data volumes.",
-        bullets: [
-            "Development of custom scripts in Python and JavaScript for data extraction.",
-            "Integrations via REST API and Webhooks for real-time synchronization.",
-            "Maintenance and monitoring of critical ETL processes."
         ]
     },
     "Infrastructure & Technical Support": {
@@ -59,7 +56,8 @@ export const skillData = {
             "Self-hosted n8n server administration with automatic backup management.",
             "Implementation of security protocols for API key and OAuth2 handling.",
             "Resolution of infrastructure conflicts in complex REST API integrations.",
-            "Proactive stability monitoring of cloud tracking services."
+            "Proactive stability monitoring of cloud tracking services.",
+            "Operational Stack: Expert mastery of Notion, ClickUp, Slack, Microsoft Teams, and full Office Suite."
         ]
     },
     "Visualization & Business Intelligence": {
